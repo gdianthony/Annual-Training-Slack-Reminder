@@ -1,0 +1,1 @@
+This project demonstrates a scheduled Python automation that checks annual training due dates from a CSV file and posts reminder notifications to Slack using GitHub Actions. The public version uses sample data only; production data and webhook credentials are excluded.
