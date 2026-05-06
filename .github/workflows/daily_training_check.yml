@@ -1,6 +1,6 @@
 name: Daily Training Reminder Check
 
-on:
+"on":
   schedule:
     - cron: "0 13 * * *"
   workflow_dispatch:
